@@ -25,15 +25,21 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 
 # **Skills**
-* **Programming Languages:** Python, C, C++, Julia, Rust, Elm, Java, R, SAS
-* **Systems & Frameworks:** Linux/Unix, OpenGL, OpenCL, Unity3D, KVM, Docker, SQL
-* **Network Infrastructure:** Routing, Switching, Network Attached Storage, POE, Cabling
+* **Programming Languages:** Python, C, C++, JavaScript, Julia, Rust, Elm, Java
+* **Systems & Frameworks:** Linux/Unix, Vue.js, KVM, Docker, SQL, OpenGL, OpenCL, Unity3D
+* **Network Infrastructure:** Routing, Switching, VLANs, Network Attached Storage, POE, Cabling
 
 
 *****
 
 
 # **Work Experience**
+**AT&T Technology Development Program** - Network Engineer I (Jan 2021 - Present)
+* Automated cleaning and reformatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Excel 
+* Developed new front end features for the TDP internal website using Vue.js
+* Created technical interviewing procedures for the Network Engineer hiring process
+* Lead training sessions for TDP technical interviewers
+
 **Cal Poly Student Affairs Technology** - IT Specialist (Apr 2016 - Jun 2020)
 * Diagnosed, and resolved issues with the campus housing network and servers.
 * Provided technical support (software & hardware) for users of the campus network.
