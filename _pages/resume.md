@@ -10,7 +10,7 @@ permalink: /resume/
 <a href="mailto:contact@luengas.dev" class="btn btn--info btn--primary">Email</a>
 <a href="https://www.linkedin.com/in/henry-luengas" class="btn btn--info btn--primary">LinkedIn</a>
 <a href="https://github.com/hluengas" class="btn btn--info btn--primary">Github</a>
-<a href="/assets/documents/HenryLuengas-Resume-2021August.pdf" class="btn btn--warning btn--primary">Resume PDF</a>
+<a href="/assets/documents/HenryLuengas-Resume-2021October.pdf" class="btn btn--warning btn--primary">Resume PDF</a>
 
 
 *****
@@ -35,10 +35,13 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 # **Work Experience**
 **AT&T Technology Development Program** - Network Engineer I (Jan 2021 - Present)
+* Implemented a containerized video transcoding server, to stream 5G camera footage to internet video platforms using Docker and FFMPEG.
+* Served as an administrator for the AT&T 5G Technical Associate Certification Course
 * Automated cleaning and reformatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Excel 
 * Developed new front end features for the TDP internal website using Vue.js
 * Created technical interviewing procedures for the Network Engineer hiring process
 * Lead training sessions for TDP technical interviewers
+
 
 **Cal Poly Student Affairs Technology** - IT Specialist (Apr 2016 - Jun 2020)
 * Diagnosed, and resolved issues with the campus housing network and servers.
@@ -48,6 +51,13 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 **UHV Technologies** - Engineering Intern (May 2015 – Sep 2015)
 * Assisted in the design process, digitizing and modeling engineering plans with CAD.
 * Prototyped a linear encoder measurement device (hardware and software).
+
+
+*****
+
+
+# **Certifications**
+* SAFe 5 Agilist Certified (Mar 2021 - Present)
 
 
 *****
