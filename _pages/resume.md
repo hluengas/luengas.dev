@@ -10,7 +10,7 @@ permalink: /resume/
 <a href="mailto:contact@luengas.dev" class="btn btn--info btn--primary">Email</a>
 <a href="https://www.linkedin.com/in/henry-luengas" class="btn btn--info btn--primary">LinkedIn</a>
 <a href="https://github.com/hluengas" class="btn btn--info btn--primary">Github</a>
-<a href="/assets/documents/HenryLuengas-Resume.pdf" class="btn btn--warning btn--primary">Resume PDF</a>
+<a href="/assets/documents/HenryLuengas-Resume-2022May.pdf" class="btn btn--warning btn--primary">Resume PDF</a>
 
 
 *****
@@ -25,22 +25,25 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 
 # **Skills**
-* **Programming Languages:** Python, C, C++, JavaScript, Julia, Rust, Elm, Java
-* **Systems & Frameworks:** Linux/Unix, Vue.js, KVM, Docker, SQL, OpenGL, OpenCL, Unity3D
-* **Network Infrastructure:** Routing, Switching, VLANs, Network Attached Storage, POE, Cabling
+* **Programming Languages:** Python, C, C++, JavaScript, Julia, Rust, Elm
+* **Systems & Frameworks:** Linux/Unix, Vue.js, Docker, SQL, OpenGL, OpenCL, Unity3D, MS Visio
+* **Network Infrastructure:** Routing, Switching, VLANs, 5G Core and RAN, WiFi, SDN, VPN
 
 
 *****
 
 
 # **Work Experience**
-**AT&T Technology Development Program** - Network Engineer I (Jan 2021 - Present)
-* Implemented a containerized video transcoding server, to stream 5G camera footage to internet video platforms using Docker and FFMPEG.
-* Served as an administrator for the AT&T 5G Technical Associate Certification Course
-* Automated cleaning and reformatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Excel 
-* Developed new front end features for the TDP internal website using Vue.js
-* Created technical interviewing procedures for the Network Engineer hiring process
-* Lead training sessions for TDP technical interviewers
+**AT&T Technology Development Program** - Network Engineer II (Jan 2021 - Present)
+* Specialized Networks Consultant – Mobility & IoT Professional Services
+    * Developed, deployed, and presented 5G & IoT technical demonstrations highlighting video intelligence use cases to Private Cellular Network customers
+    * Implemented a containerized video transcoding server to stream 5G camera footage to internet video platforms using Docker and FFMPEG
+    * Served as an administrator for the AT&T 5G Technical Associate Certification Course and led lectures on container virtualization
+* Data Steward – Network Cloud Blue Train Fabric Automation Team
+    * Automated cleaning and formatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Excel
+* Web Developer – Technology Development Program Internal Website
+    * Developed new front end features for the TDP internal website using Vue.js
+    * Managed the development team’s DevOps toolchain in Azure
 
 
 **Cal Poly Student Affairs Technology** - IT Specialist (Apr 2016 - Jun 2020)
@@ -103,3 +106,7 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 **System Building & Networking**
 * Built a virtualization server to use as a NAS, DNS resolver, Sophos UTM security gateway, and Docker host
+
+**Hangman WebApp (hangman.luengas.dev)**
+* Built a hangman webapp using Elm to learn more about web development and functional programming
+
