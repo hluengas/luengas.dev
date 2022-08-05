@@ -26,7 +26,7 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 # **Skills**
 * **Programming Languages:** Python, C, C++, JavaScript, Julia, Rust, Elm
-* **Systems & Frameworks:** Linux/Unix, Vue.js, Docker, SQL, OpenGL, OpenCL, Unity3D, MS Visio
+* **Systems & Frameworks:** Linux/Unix, Docker, Podman, Kubernetes, Helm, Terraform, Azure, SQL, OpenGL, OpenCL, Unity3D, MS Visio
 * **Network Infrastructure:** Routing, Switching, VLANs, 5G Core and RAN, WiFi, SDN, VPN
 
 
