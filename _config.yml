@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Henry Luengas"
   avatar : "/assets/media/Headshots/hluengasHeadshotIvy2-cropped.jpg"
-  bio    : "I am a tecnology enthusiast and network engineer at AT&T. I have experience with 5G core networks, software defined networking, container virtualization, systems programming, graphics & rendering, software development processes, and technical support for Linux, Windows, and MacOS."
+  bio    : "I am a technology enthusiast and network engineer at AT&T. I have experience with 5G core networks, software defined networking, container virtualization, systems programming, graphics & rendering, software development processes, and technical support for Linux, Windows, and MacOS."
   links:
     - label:  "GitHub"
       icon:   "fab fa-fw fa-github"
