@@ -27,19 +27,22 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 # **Skills**
 * **Programming Languages:** Python, C, C++, JavaScript, Julia, Rust, Elm
 * **Systems & Frameworks:** Linux/Unix, Docker, Podman, Kubernetes, Helm, Terraform, Azure, SQL, OpenGL, OpenCL, Unity3D, MS Visio
-* **Network Infrastructure:** Routing, Switching, VLANs, 5G Core and RAN, WiFi, SDN, VPN
+* **Network Infrastructure:** Routing, Switching, VLANs, 5G Core & RAN, WiFi, SDN, VPN
 
 
 *****
 
 
 # **Work Experience**
-**AT&T Technology Development Program** - Network Engineer II (Jan 2021 - Present)
-* Specialized Networks Consultant – Mobility & IoT Professional Services
+**AT&T Technology Development Program** - Network Engineer (Jan 2021 - Present)
+* Software Engineer – Wireless Technology, Network Analytics & Automation
+    * Containerized several scripts used for daily analysis of large datasets from the mobile network
+    * Deployed these scripts as kubernetes cronjobs on Azure using Terraform and Helm
+* Specialized Networks Consultant – Consulting, Mobility & IoT Professional Services
     * Developed, deployed, and presented 5G & IoT technical demonstrations highlighting video intelligence use cases to Private Cellular Network customers
     * Implemented a containerized video transcoding server to stream 5G camera footage to internet video platforms using Docker and FFMPEG
     * Served as an administrator for the AT&T 5G Technical Associate Certification Course and led lectures on container virtualization
-* Data Steward – Network Cloud Blue Train Fabric Automation Team
+* Data Steward – Network Cloud, Blue Train Fabric Automation
     * Automated cleaning and formatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Excel
 * Web Developer – Technology Development Program Internal Website
     * Developed new front end features for the TDP internal website using Vue.js
@@ -60,8 +63,8 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 
 # **Certifications**
-* SAFe 5 Agilist Certified (Mar 2021 - Present)
-
+* SAFe 5 Agilist Certification - Scaled Agile - Mar 2021
+* 5G Technical Associate Certification - AT&T Consulting - Mar 2022
 
 *****
 
