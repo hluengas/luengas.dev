@@ -37,7 +37,7 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 **AT&T Technology Development Program** - Network Engineer (Jan 2021 - Present)
 * Software Engineer – Wireless Technology, Network Analytics & Automation
     * Containerized several scripts used for daily analysis of large datasets from the mobile network
-    * Deployed these scripts as kubernetes cronjobs on Azure using Terraform and Helm
+    * Deployed these scripts as Kubernetes cronjobs on Azure using Terraform and Helm
 * Specialized Networks Consultant – Consulting, Mobility & IoT Professional Services
     * Developed, deployed, and presented 5G & IoT technical demonstrations highlighting video intelligence use cases to Private Cellular Network customers
     * Implemented a containerized video transcoding server to stream 5G camera footage to internet video platforms using Docker and FFMPEG
