@@ -25,7 +25,7 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 
 # **Skills**
-* **Programming Languages:** Python, C, C++, JavaScript, Julia, Rust, Elm
+* **Programming Languages:** Python, Rust, C, C++, JavaScript, Julia, Elm
 * **Systems & Frameworks:** Linux/Unix, Docker, Podman, Kubernetes, Helm, Terraform, Azure, SQL, OpenGL, OpenCL, Unity3D, MS Visio
 * **Network Infrastructure:** Routing, Switching, VLANs, 5G Core & RAN, WiFi, SDN, VPN
 
@@ -34,17 +34,26 @@ Bachelor of Science in **Computer Science**, graduation: June 2020
 
 
 # **Work Experience**
-**AT&T Technology Development Program** - Network Engineer (Jan 2021 - Present)
-* Software Engineer – Wireless Technology, Network Analytics & Automation
+
+**AT&T Shared Platforms & Automation** - Senior Software Engineer – (Oct 2022 – Present)
+* Shared Platform Ops Team
+   * Operated several geo-redundant shared cloud platforms used by AT&T developers for application
+deployment both on-prem and in MS Azure
+   * Provided platform maintenance, including both security patching and delivery of new platform
+features from the platform development team
+   * Supported application developers using the shared platform for deployment
+
+**AT&T Technology Development Program** - Network Engineer (Jan 2021 - Oct 2022)
+* Software Engineer Rotation – Wireless Technology, Network Analytics & Automation
     * Containerized several scripts used for daily analysis of large datasets from the mobile network
     * Deployed these scripts as Kubernetes cronjobs on Azure using Terraform and Helm
-* Specialized Networks Consultant – Consulting, Mobility & IoT Professional Services
+* Specialized Networks Consultant Rotation – Consulting, Mobility & IoT Professional Services
     * Developed, deployed, and presented 5G & IoT technical demonstrations highlighting video intelligence use cases to Private Cellular Network customers
     * Implemented a containerized video transcoding server to stream 5G camera footage to internet video platforms using Docker and FFMPEG
     * Served as an administrator for the AT&T 5G Technical Associate Certification Course and led lectures on container virtualization
-* Data Steward – Network Cloud, Blue Train Fabric Automation
+* Data Steward Rotation – Network Cloud, Blue Train Fabric Automation
     * Automated cleaning and formatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Excel
-* Web Developer – Technology Development Program Internal Website
+* Web Developer Rotation – Technology Development Program Internal Website
     * Developed new front end features for the TDP internal website using Vue.js
     * Managed the development team’s DevOps toolchain in Azure
 
