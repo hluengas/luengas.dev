@@ -39,7 +39,7 @@ Graduation: June 2020
 (Oct 2022 – Present)
 
 * Shared Platform Ops Team
-  * Deployed, maintained, and supported six shared platforms used by AT&T developers hosting service delivery and service assurance applications on premise and in Azure.
+  * Deployed, maintained, and supported six shared platforms used by AT&T developers hosting service delivery and service assurance applications on premise and in Azure
   * Served as system administrator for 52 AKS clusters comprised of 1,500+ VMs with over 42,000
 cores required for daily operation of 25+ internal development teams
   * Designed and deployed Azure infrastructure to host the AT&T Software Symposium website using Terraform and Azure DevOps (ADO) pipelines for a structured IaC deployment
