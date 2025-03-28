@@ -16,8 +16,11 @@ permalink: /resume/
 
 ## Education
 
-California Polytechnic State University San Luis Obispo **(Cal Poly) - College of Engineering:**
-B.S. in **Computer Science**, graduation: June 2020
+California Polytechnic State University San Luis Obispo
+
+**(Cal Poly) - College of Engineering:** B.S. in **Computer Science**
+
+Graduation: June 2020
 
 *****
 
@@ -31,7 +34,9 @@ B.S. in **Computer Science**, graduation: June 2020
 
 ## Work Experience
 
-**AT&T CIO Automation Platforms Development** - Senior Software Engineer – (Oct 2022 – Present)
+**AT&T CIO Automation Platforms Development** - Senior Software Engineer
+
+(Oct 2022 – Present)
 
 * Shared Platform Ops Team
   * Deployed, maintained, and supported six shared platforms used by AT&T developers hosting service delivery and service assurance applications on premise and in Azure.
@@ -41,7 +46,9 @@ cores required for daily operation of 25+ internal development teams
   * Modernized Software Symposium website through redevelopment on a new tech stack and reimplementation using Azure Infrastructure as a Service (IaaS) resources
   * Adapted site to cloud native design and created container based CI/CD GitHub Action workflows for the development team
 
-**AT&T CIO Technology Development Program** - Network Engineer (Jan 2021 - Oct 2022)
+**AT&T CIO Technology Development Program** - Network Engineer
+
+(Jan 2021 - Oct 2022)
 
 * Software Engineer – Wireless Technology, Network Analytics & Automation
   * Containerized an app used for daily analysis of Passive Intermodulation (PIM) at network cell sites
@@ -53,13 +60,17 @@ cores required for daily operation of 25+ internal development teams
 * Data Steward – Network Cloud, Blue Train Fabric Automation
   * Automated cleaning and formatting process for physical and virtual network device setup data used by AT&T’s internal cloud platform using Python and Microsoft Excel
 
-**Cal Poly Student Affairs Technology** - IT Specialist (Apr 2016 - Jun 2020)
+**Cal Poly Student Affairs Technology** - IT Specialist
+
+(Apr 2016 - Jun 2020)
 
 * Diagnosed, and resolved issues with the campus housing network and servers.
 * Provided technical support (software & hardware) for users of the campus network.
 * Maintained an internal website used to provide support to students in housing.
 
-**UHV Technologies** - Engineering Intern (May 2015 – Sep 2015)
+**UHV Technologies** - Engineering Intern
+
+(May 2015 – Sep 2015)
 
 * Assisted in the design process, digitizing and modeling engineering plans with CAD.
 * Prototyped a linear encoder measurement device (hardware and software).
